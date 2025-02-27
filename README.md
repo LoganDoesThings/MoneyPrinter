@@ -12,6 +12,8 @@ Automate the creation of YouTube Shorts locally, simply by providing a video top
 git clone https://github.com/FujiwaraChoki/MoneyPrinter.git
 cd MoneyPrinter
 
+#we love money printer
+
 # Create virtual environment
 python -m venv venv
 
